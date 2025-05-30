@@ -19,3 +19,20 @@ is my thing.
 > [!NOTE]
 > Hornesty is one of my key values are a systen engineer. My Software Development skills are not that good but I am
 > willing to take any opportunity to learn and become better.   
+
+<hr>
+
+## Certifications
+This session covers certificates I obtained to further learn and keep on exploring new topics to reach my target **Goal**. The list
+will keep on growing and updated with each new cwrtificate obtained.
+
+> Google Cybersecurity Professional Certificate ![view the certificate](https://www.credly.com/badges/26c9a6fc-4ed8-460d-94da-11a685fe455d/public_url)
+
+<hr>
+
+## What I am working on currently
+As part of growing and learning, here's what I am currently working on. **Projects** will be announced on my LinkedIn and here then new **Certificates**
+I am working on will only be listed here.
+
+> Project: Oracle Cloud File Backup VM <br>
+> Certificate: Cisco Endpoint Secuurity
