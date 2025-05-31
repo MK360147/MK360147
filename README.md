@@ -26,7 +26,7 @@ is my thing.
 This session covers certificates I obtained to further learn and keep on exploring new topics to reach my target **Goal**. The list
 will keep on growing and updated with each new cwrtificate obtained.
 
-> Google Cybersecurity Professional Certificate ![view the certificate](https://www.credly.com/badges/26c9a6fc-4ed8-460d-94da-11a685fe455d/public_url)
+> Google Cybersecurity Professional Certificate [view the certificate](https://www.credly.com/badges/26c9a6fc-4ed8-460d-94da-11a685fe455d/public_url)
 
 <hr>
 
