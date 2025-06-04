@@ -35,4 +35,5 @@ As part of growing and learning, here's what I am currently working on. **Projec
 I am working on will only be listed here.
 
 > Project: Oracle Cloud File Backup VM <br>
+> Project: Porfolio <br>
 > Certificate: Cisco Endpoint Security
