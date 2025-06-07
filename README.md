@@ -2,7 +2,6 @@
 
 ![MK MAHWETE(1)](https://github.com/user-attachments/assets/a3daf8da-5de7-4fc3-a298-b06d9514506f)
 
-<hr>
 
 I am a system Engineer who is passionate and insterested in this four tech domains: <br>
   > Linux <br>
@@ -34,6 +33,13 @@ will keep on growing and updated with each new cwrtificate obtained.
 As part of growing and learning, here's what I am currently working on. **Projects** will be announced on my LinkedIn and here then new **Certificates**
 I am working on will only be listed here.
 
+<br>
+
+**Continuous Projects** <br>
+This are ptojects I am still and will still continue working on them through out my journey
 > Project: Oracle Cloud File Backup VM <br>
 > Project: Porfolio <br>
-> Certificate: Cisco Endpoint Security
+
+**Certification & Normal Projects** <br>
+> Certificate: Cisco Endpoint Security <br>
+> project: Build a router or firewall using iptables/nftables.
