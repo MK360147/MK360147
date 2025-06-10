@@ -35,6 +35,6 @@ This are ptojects I am still and will still continue working on them through out
 <hr>
 
 > [!NOTE]
-> If you have time, Check this **Repository** for mini projects specifically for presonal usage. You might find some a bit useful to implement yourself. <br>
+> If you have time, Check this **Repository** for mini projects some specifically for presonal usage. You might find some a bit useful to implement yourself. <br>
 > <br>
 > ⚠️stay save on the internet 
