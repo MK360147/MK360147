@@ -36,5 +36,5 @@ This are ptojects I am still and will still continue working on them through out
 
 > [!NOTE]
 > If you have time, Check this **Repository** for mini projects some specifically for presonal usage. You might find some a bit useful to implement yourself. <br>
-> <br>
-> ⚠️stay save on the internet 
+> 
+> ⚠️ stay save on the internet 
