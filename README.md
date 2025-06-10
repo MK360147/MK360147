@@ -35,5 +35,6 @@ This are ptojects I am still and will still continue working on them through out
 <hr>
 
 > [!NOTE]
-> If you have time, Check this **Repository** for mini projects specifically for presonal usage. You might find some a bit useful to immplement yourself.
-> **STAY SAFE ON THE INTERNET**
+> If you have time, Check this **Repository** for mini projects specifically for presonal usage. You might find some a bit useful to immplement yourself. <br>
+> <br>
+> ⚠️ **STAY SAFE ON THE INTERNET**
