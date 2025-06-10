@@ -15,10 +15,6 @@ my up there by creating and building systems that I personaly use, from PC build
 implementing best security practices all the way to my cloud environments. Translating theoretical knowledge into practical solutions
 is my thing.
 
-> [!NOTE]
-> Hornesty is one of my key values are a systen engineer. My Software Development skills are not that good but I am
-> willing to take any opportunity to learn and become better.   
-
 <hr>
 
 ## What I am working on currently
@@ -35,3 +31,9 @@ This are ptojects I am still and will still continue working on them through out
 **Certification & Normal Projects** <br>
 > Certificate: Cisco Endpoint Security <br>
 > project: Build a router or firewall using iptables/nftables.
+
+<hr>
+
+> [!NOTE]
+> If you have time, Check this **Repository** for mini projects specifically for presonal usage. You might find some a bit useful to immplement yourself.
+> **STAY SAFE ON THE INTERNET**
