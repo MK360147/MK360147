@@ -4,8 +4,8 @@
 
 
 I am a system Engineer who is passionate and insterested in this four tech domains: <br>
-  > Linux <br>
-  > Cybersecurity <br>
+  > Linux Systems <br>
+  > Cybersecurity (Security Architect) <br>
   > Networking <br>
   > Computer hardware <br>
 
