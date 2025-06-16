@@ -25,7 +25,7 @@ I am working on will only be listed here.
 
 **Continuous Projects** <br>
 This are ptojects I am still and will still continue working on them through out my journey
-> Project: Oracle Cloud File Backup VM <br>
+> Project: Oracle Cloud File Backup VM (HomeLab) <br>
 > Project: Porfolio <br>
 
 **Certification & Normal Projects** <br>
