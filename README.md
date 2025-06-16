@@ -30,7 +30,6 @@ This are ptojects I am still and will still continue working on them through out
 
 **Certification & Normal Projects** <br>
 > Certificate: Cisco Endpoint Security <br>
-> project: Build a router or firewall using iptables/nftables.
 
 <hr>
 
